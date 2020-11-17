@@ -1,34 +1,40 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: solplparty # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: solplparty.com
+    url: https://solplparty.com
+  - name: solpl.party
+    url: https://solpl.party   
+  - name: about.solpl.party
+    url: https://about.solpl.party
+  - name: culture.solpl.party
+    url: https://culture.solpl.party
+  - name: idoluv.me
+    url: https://idoluv.me
+  - name: BLUV
+    url: https://bluv.solpl.party/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.solpl.party
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "**Upptime** for SOLPL PARTY"
+  introMessage: 🤘 문화예술 커뮤니티, 솔플파티가 운영하는 서비스의 현재 상태입니다. (Run by. GitHub Actions)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+notifications:
+  - type: discord
+    DISCORD_WEBHOOK_URL: https://discord.com/api/webhooks/773254434071379968/Crv3PzbTUs18IFGXGg4k0TJUfUtTtMAB66fbY-3QlOMQq2j5cYTvuKNJdb3AyCFmAFH2
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
