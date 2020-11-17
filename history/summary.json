@@ -1,42 +1,50 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "solplparty.com",
+    "url": "https://solplparty.com",
+    "slug": "solplparty-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 206
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "solpl.party",
+    "url": "https://solpl.party",
+    "slug": "solpl-party",
     "status": "up",
     "uptime": "100.00",
-    "time": 142
+    "time": 63
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "about.solpl.party",
+    "url": "https://about.solpl.party",
+    "slug": "about-solpl-party",
     "status": "up",
     "uptime": "100.00",
-    "time": 336
+    "time": 188
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "culture.solpl.party",
+    "url": "https://culture.solpl.party",
+    "slug": "culture-solpl-party",
     "status": "up",
     "uptime": "100.00",
-    "time": 50
+    "time": 141
+  },
+  {
+    "name": "idoluv.me",
+    "url": "https://idoluv.me",
+    "slug": "idoluv-me",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 215
+  },
+  {
+    "name": "BLUV",
+    "url": "https://bluv.solpl.party/",
+    "slug": "bluv",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 49
   }
 ]
