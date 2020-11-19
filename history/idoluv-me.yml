@@ -1,7 +1,7 @@
 - url: https://idoluv.me
-- status: down
+- status: up
 - code: 200
-- responseTime: 183
-- lastUpdated: 2020-11-19T06:49:35.228Z
+- responseTime: 1629
+- lastUpdated: 2020-11-19T06:57:34.579Z
 - startTime: 2020-11-17T07:27:27.594Z
 - generator: Upptime <https://github.com/upptime/upptime>
