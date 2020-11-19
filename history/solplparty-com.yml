@@ -1,7 +1,7 @@
 - url: https://solplparty.com
-- status: down
+- status: up
 - code: 200
-- responseTime: 328
-- lastUpdated: 2020-11-19T06:49:26.529Z
+- responseTime: 346
+- lastUpdated: 2020-11-19T06:57:26.437Z
 - startTime: 2020-11-17T07:27:25.505Z
 - generator: Upptime <https://github.com/upptime/upptime>
