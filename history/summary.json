@@ -3,48 +3,48 @@
     "name": "solplparty.com",
     "url": "https://solplparty.com",
     "slug": "solplparty-com",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 304
+    "status": "up",
+    "uptime": "100.00",
+    "time": 312
   },
   {
     "name": "solpl.party",
     "url": "https://solpl.party",
     "slug": "solpl-party",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 88
+    "status": "up",
+    "uptime": "100.00",
+    "time": 104
   },
   {
     "name": "about.solpl.party",
     "url": "https://about.solpl.party",
     "slug": "about-solpl-party",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 372
+    "status": "up",
+    "uptime": "100.00",
+    "time": 387
   },
   {
     "name": "culture.solpl.party",
     "url": "https://culture.solpl.party",
     "slug": "culture-solpl-party",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 530
+    "time": 532
   },
   {
     "name": "idoluv.me",
     "url": "https://idoluv.me",
     "slug": "idoluv-me",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 241
+    "time": 519
   },
   {
     "name": "BLUV",
     "url": "https://bluv.solpl.party/",
     "slug": "bluv",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 114
+    "time": 108
   }
 ]
