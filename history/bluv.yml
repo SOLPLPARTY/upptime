@@ -1,7 +1,7 @@
 - url: https://bluv.solpl.party/
-- status: up
+- status: down
 - code: 200
-- responseTime: 249
-- lastUpdated: 2020-11-18T23:11:06.266Z
+- responseTime: 68
+- lastUpdated: 2020-11-19T06:49:36.697Z
 - startTime: 2020-11-17T07:27:28.188Z
 - generator: Upptime <https://github.com/upptime/upptime>
