@@ -1,7 +1,7 @@
 - url: https://culture.solpl.party
-- status: up
+- status: down
 - code: 200
-- responseTime: 587
-- lastUpdated: 2020-11-18T23:11:05.104Z
+- responseTime: 1256
+- lastUpdated: 2020-11-19T06:49:32.695Z
 - startTime: 2020-11-17T07:27:27.084Z
 - generator: Upptime <https://github.com/upptime/upptime>
