@@ -26,15 +26,6 @@ status-website:
   name: Upptime
   introTitle: "**Upptime** for SOLPL PARTY"
   introMessage: 🤘 문화예술 커뮤니티, 솔플파티가 운영하는 서비스의 현재 상태입니다. (Run by. GitHub Actions)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-notifications:
-  - type: discord
-    DISCORD_WEBHOOK_URL: https://discord.com/api/webhooks/773254434071379968/Crv3PzbTUs18IFGXGg4k0TJUfUtTtMAB66fbY-3QlOMQq2j5cYTvuKNJdb3AyCFmAFH2
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
