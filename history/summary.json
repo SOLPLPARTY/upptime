@@ -5,7 +5,7 @@
     "slug": "solplparty-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 305
+    "time": 303
   },
   {
     "name": "solpl.party",
@@ -13,7 +13,7 @@
     "slug": "solpl-party",
     "status": "up",
     "uptime": "100.00%",
-    "time": 183
+    "time": 191
   },
   {
     "name": "about.solpl.party",
@@ -21,7 +21,7 @@
     "slug": "about-solpl-party",
     "status": "up",
     "uptime": "100.00%",
-    "time": 349
+    "time": 361
   },
   {
     "name": "culture.solpl.party",
@@ -29,7 +29,7 @@
     "slug": "culture-solpl-party",
     "status": "up",
     "uptime": "100.00%",
-    "time": 372
+    "time": 373
   },
   {
     "name": "idoluv.me",
@@ -37,7 +37,7 @@
     "slug": "idoluv-me",
     "status": "up",
     "uptime": "100.00%",
-    "time": 672
+    "time": 649
   },
   {
     "name": "BLUV",
@@ -45,6 +45,6 @@
     "slug": "bluv",
     "status": "up",
     "uptime": "100.00%",
-    "time": 160
+    "time": 170
   }
 ]
