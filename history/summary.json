@@ -58,18 +58,20 @@
     "url": "https://culture.solpl.party",
     "icon": "https://favicons.githubusercontent.com/culture.solpl.party",
     "slug": "culture-solpl-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 160,
-    "timeWeek": 392,
-    "timeMonth": 364,
-    "timeYear": 364,
-    "dailyMinutesDown": {}
+    "time": 468,
+    "timeDay": 1935,
+    "timeWeek": 806,
+    "timeMonth": 468,
+    "timeYear": 468,
+    "dailyMinutesDown": {
+      "2020-12-14": 0
+    }
   },
   {
     "name": "idoluv.me",
