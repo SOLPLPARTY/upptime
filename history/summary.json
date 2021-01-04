@@ -40,28 +40,30 @@
     "url": "https://about.solpl.party",
     "icon": "https://favicons.githubusercontent.com/about.solpl.party",
     "slug": "about-solpl-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 467,
     "timeWeek": 358,
     "timeMonth": 398,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-04": 3
+    }
   },
   {
     "name": "culture.solpl.party",
     "url": "https://culture.solpl.party",
     "icon": "https://favicons.githubusercontent.com/culture.solpl.party",
     "slug": "culture-solpl-party",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 414,
@@ -70,6 +72,7 @@
     "timeMonth": 445,
     "timeYear": 414,
     "dailyMinutesDown": {
+      "2021-01-04": 2,
       "2020-12-14": 25
     }
   },
@@ -78,9 +81,9 @@
     "url": "https://idoluv.me",
     "icon": "https://favicons.githubusercontent.com/idoluv.me",
     "slug": "idoluv-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +92,9 @@
     "timeWeek": 257,
     "timeMonth": 217,
     "timeYear": 367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-04": 0
+    }
   },
   {
     "name": "BLUV",
