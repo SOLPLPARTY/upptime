@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 312,
-    "timeWeek": 410,
-    "timeMonth": 289,
+    "timeDay": 343,
+    "timeWeek": 418,
+    "timeMonth": 290,
     "timeYear": 291,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 140,
-    "timeWeek": 172,
-    "timeMonth": 186,
-    "timeYear": 195,
+    "time": 192,
+    "timeDay": 44,
+    "timeWeek": 135,
+    "timeMonth": 179,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "98.46%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.80%",
-    "time": 378,
-    "timeDay": 175,
-    "timeWeek": 318,
-    "timeMonth": 372,
-    "timeYear": 378,
+    "time": 374,
+    "timeDay": 153,
+    "timeWeek": 287,
+    "timeMonth": 364,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2021-01-04": 155
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "98.48%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.77%",
-    "time": 416,
-    "timeDay": 210,
-    "timeWeek": 420,
-    "timeMonth": 462,
-    "timeYear": 416,
+    "time": 459,
+    "timeDay": 3159,
+    "timeWeek": 703,
+    "timeMonth": 532,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2021-01-04": 154,
       "2020-12-14": 25
@@ -82,16 +82,16 @@
     "icon": "https://favicons.githubusercontent.com/idoluv.me",
     "slug": "idoluv-me",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.80%",
-    "time": 344,
-    "timeDay": 207,
-    "timeWeek": 204,
+    "uptimeYear": "99.81%",
+    "time": 342,
+    "timeDay": 219,
+    "timeWeek": 210,
     "timeMonth": 218,
-    "timeYear": 344,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2021-01-04": 152
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 82,
-    "timeWeek": 181,
-    "timeMonth": 217,
-    "timeYear": 201,
+    "time": 200,
+    "timeDay": 112,
+    "timeWeek": 150,
+    "timeMonth": 213,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   }
 ]
