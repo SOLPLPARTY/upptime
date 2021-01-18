@@ -81,9 +81,9 @@
     "url": "https://idoluv.me",
     "icon": "https://favicons.githubusercontent.com/idoluv.me",
     "slug": "idoluv-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.83%",
@@ -93,6 +93,7 @@
     "timeMonth": 226,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2021-01-18": 0,
       "2021-01-04": 152
     }
   },
