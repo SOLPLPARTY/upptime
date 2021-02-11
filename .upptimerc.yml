@@ -12,9 +12,7 @@ sites:
     url: https://about.solpl.party
   - name: culture.solpl.party
     url: https://culture.solpl.party
-  - name: idoluv.me
-    url: https://idoluv.me
-  - name: BLUV
+  - name: bluv.solpl.party
     url: https://bluv.solpl.party/
 
 status-website:
