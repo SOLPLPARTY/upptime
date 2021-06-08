@@ -12,8 +12,6 @@ sites:
     url: https://about.solpl.party
   - name: culture.solpl.party
     url: https://culture.solpl.party
-  - name: bluv.solpl.party
-    url: https://bluv.solpl.party/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
