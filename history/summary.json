@@ -4,10 +4,10 @@
     "url": "https://solplparty.com",
     "icon": "https://favicons.githubusercontent.com/solplparty.com",
     "slug": "solplparty-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
@@ -15,16 +15,18 @@
     "timeWeek": 196,
     "timeMonth": 266,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-31": 1
+    }
   },
   {
     "name": "solpl.party",
     "url": "https://solpl.party",
     "icon": "https://favicons.githubusercontent.com/solpl.party",
     "slug": "solpl-party",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +36,7 @@
     "timeMonth": 279,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2021-07-31": 0,
       "2021-05-06": 38
     }
   },
