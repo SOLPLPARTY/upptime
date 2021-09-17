@@ -12,6 +12,8 @@ sites:
     url: https://about.solpl.party
   - name: culture.solpl.party
     url: https://culture.solpl.party
+  - name: movie-rss.solpl.party
+    url: https://movie-rss.solpl.party    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
