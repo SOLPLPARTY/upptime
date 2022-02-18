@@ -86,17 +86,19 @@
     "url": "https://movie-rss.solpl.party",
     "icon": "https://favicons.githubusercontent.com/movie-rss.solpl.party",
     "slug": "movie-rss-solpl-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 124,
-    "timeWeek": 225,
-    "timeMonth": 178,
-    "timeYear": 175,
-    "dailyMinutesDown": {}
+    "time": 174,
+    "timeDay": 85,
+    "timeWeek": 203,
+    "timeMonth": 174,
+    "timeYear": 174,
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   }
 ]
