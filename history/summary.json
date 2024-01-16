@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/solplparty.com.ico",
     "slug": "solplparty-com",
     "status": "down",
-    "uptime": "63.60%",
+    "uptime": "63.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 460,
+    "time": 459,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-15": 29,
+      "2024-01-16": 28,
+      "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
@@ -379,8 +380,7 @@
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
-      "2023-01-17": 1440,
-      "2023-01-16": 1440
+      "2023-01-17": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/solpl.party.ico",
     "slug": "solpl-party",
     "status": "up",
-    "uptime": "77.68%",
+    "uptime": "77.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.50%",
+    "uptimeYear": "44.77%",
     "time": 585,
-    "timeDay": 1351,
-    "timeWeek": 878,
-    "timeMonth": 826,
-    "timeYear": 732,
+    "timeDay": 394,
+    "timeWeek": 826,
+    "timeMonth": 817,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2023-08-05": 877,
       "2023-08-04": 1440,
@@ -600,8 +600,7 @@
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
-      "2023-01-17": 1440,
-      "2023-01-16": 1440
+      "2023-01-17": 1440
     }
   },
   {
@@ -615,10 +614,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 423,
-    "timeDay": 441,
-    "timeWeek": 398,
-    "timeMonth": 411,
+    "time": 422,
+    "timeDay": 209,
+    "timeWeek": 395,
+    "timeMonth": 404,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2023-08-05": 877,
@@ -631,18 +630,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/culture.solpl.party.ico",
     "slug": "culture-solpl-party",
     "status": "down",
-    "uptime": "85.79%",
+    "uptime": "85.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.20%",
+    "uptimeYear": "54.93%",
     "time": 447,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2024-01-15": 29,
+      "2024-01-16": 28,
+      "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
@@ -817,7 +817,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/movie-rss.solpl.party.ico",
     "slug": "movie-rss-solpl-party",
     "status": "down",
-    "uptime": "20.41%",
+    "uptime": "20.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -828,7 +828,8 @@
     "timeMonth": 0,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-01-15": 29,
+      "2024-01-16": 28,
+      "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
@@ -1191,8 +1192,7 @@
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
-      "2023-01-17": 1440,
-      "2023-01-16": 1440
+      "2023-01-17": 1440
     }
   }
 ]
